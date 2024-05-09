@@ -8,6 +8,31 @@ h1{
 h2{
     font-family:Arial, Helvetica, sans-serif;
 }
+h3{
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 20px;
+}
+p{
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 18px;
+}
+.citationNeeded{
+    font-family: 'Courier New', Courier, monospace;
+    color: red;
+    background-color: black;
+}
+#bodyParagraphContainer div{
+    flex: 33%;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+#howThisAffectsTires{
+    border-top: none;
+    border-bottom: none;
+    border-right: solid;
+    border-left: solid;
+}
 
 #title{
     margin:auto;
@@ -20,5 +45,5 @@ h2{
     font-size:36px;
 }
 #title h2{
-    font-size:22px;
+    font-size:26px;
 }
