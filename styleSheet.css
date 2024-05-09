@@ -1,0 +1,24 @@
+body{
+    background-color:rgb(255, 0, 0);
+}
+
+h1{
+    font-family:Arial, Helvetica, sans-serif;
+}
+h2{
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+#title{
+    margin:auto;
+    text-align:center;
+}
+.container{
+    display:flex;
+}
+#title h1{
+    font-size:36px;
+}
+#title h2{
+    font-size:22px;
+}
