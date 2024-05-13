@@ -1,5 +1,6 @@
 body{
-    background-color:rgb(255, 0, 0);
+    background:url(backgroundImage.jpeg), no-repeat;
+    background-size:100%;
 }
 
 h1{
@@ -19,6 +20,11 @@ p{
 .citationNeeded{
     font-family: 'Courier New', Courier, monospace;
     color: red;
+    background-color: black;
+}
+.citationNeededM{
+    font-family: 'Courier New', Courier, monospace;
+    color: rgb(255, 123, 0);
     background-color: black;
 }
 #bodyParagraphContainer div{
