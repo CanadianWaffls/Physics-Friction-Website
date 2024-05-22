@@ -56,12 +56,18 @@ p{
     font-size:26px;
 }
 
+
+#maxFrictionTitle{
+    margin: auto;
+    text-align: center;
+    font-size: 36px;
+}
 .maxFriction{
     flex: 50%;
 }
 #maxFrictionText{
-
+    float:left;
 }
 #maxFrictionPics{
-    
+    float:right;
 }
